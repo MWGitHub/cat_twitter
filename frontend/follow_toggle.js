@@ -34,7 +34,7 @@ FollowToggle.prototype.handleClick = function (e) {
       that.$el.prop("disabled", false);
     },
     error: function () {
-      alert("Sloooooooow down, Maurice.");
+      alert("Ah, fuck. I can't believe you've done this.");
     }
   });
 };
